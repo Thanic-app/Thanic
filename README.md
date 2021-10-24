@@ -52,9 +52,9 @@
     <img src="images/Started.png" alt="Logo" width="200">
   </a>
 </div>
-
+<br/><br/>
 Thanic is made up of a group of five 19-year-olds. Lifelong friends and from the same town, now due to personal circumstances, one of them lives in Amersfoort (Netherlands) and another of them in Bilbao. Despite this, they face the challenge of carrying out this project with great enthusiasm.
-
+<br/><br/>
 The idea originated on a summer Friday as one more conversation, but we soon realized its potential. In September of that same year, they began to organize in a more serious way, recruiting the people who were going to be part of the project. And at the end of that month the first general meeting was held. At the end of 2021, the ideas will be finalized and the foundations for Thanic will begin to be laid, so that operations will begin in 2022. Aiming to release an alpha version of the application before February.
 
 
