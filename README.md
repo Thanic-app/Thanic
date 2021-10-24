@@ -1,20 +1,10 @@
 <div id="top"></div>
 
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Thanic-app/Thanic/">
-    <img src="images/logo1.png" alt="Logo" width="80" height="80">
+    <img src="images/logo1.png" alt="Logo" width="200">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
