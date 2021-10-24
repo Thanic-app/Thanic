@@ -64,7 +64,7 @@ The idea originated on a summer Friday as one more conversation, but we soon rea
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+We use different frameworks to build our app and last but not least we use solana environment to develop our blockchain token ($THC).
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
@@ -78,8 +78,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The main instructions to start using this app can be read on our wiki section, but our app offer a simple interface with clear isntructions to make your experience using blockchain trade easier.
 
 
 
