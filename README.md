@@ -47,6 +47,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
+<a href="https://github.com/Thanic-app/Thanic/">
+    <img src="images/Started.png" alt="Logo" width="100">
+  </a>
+</div>
+
 <a href="https://github.com/Thanic-app/Thanic/">
     <img src="images/Started.png" alt="Logo" width="400">
   </a>
