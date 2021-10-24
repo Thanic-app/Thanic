@@ -47,7 +47,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Thanic-app/Thanic/blob/main/images/Started.png)
+<a href="https://github.com/Thanic-app/Thanic/">
+    <img src="images/Started.png" alt="Logo" width="400">
+  </a>
 
 Thanic is made up of a group of five 19-year-olds. Lifelong friends and from the same town, now due to personal circumstances, one of them lives in Amersfoort (Netherlands) and another of them in Bilbao. Despite this, they face the challenge of carrying out this project with great enthusiasm.
 
