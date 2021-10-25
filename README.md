@@ -82,9 +82,9 @@ The main instructions to start using this app can be read on our wiki section, b
 Today the first materialization of the project begins, starting the creation of the explanatory web page of the project as well as the creation of the project on github and its first dissemination. 
 ### Roadmap:
 
-- [x] Project creation on ** Github ** ([https://github.com/Thanic-app/Thanic](url))
+- [x] Project creation on **Github** ([https://github.com/Thanic-app/Thanic](url))
 - [ ] Website design and programming
-- [ ] Elaboration of ** base document ** that will be transferred to the design
+- [ ] Elaboration of **base document** that will be transferred to the design
 - [ ] Creation of social networks (As well as ** base content **)
 
 
