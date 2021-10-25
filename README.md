@@ -104,6 +104,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Team
 
 Jon García Agramonte - [LinkedIn](https://www.linkedin.com/in/jon-garcía-agramonte/) - [Instagram](https://www.instagram.com/jontafalla_/) - jon.agramonte@opendeusto.es
+Ibai Armendariz Lesaga - [LinkedIn](https://www.linkedin.com/in/ibai-armendariz-ab5345222) - ibaiarmendariz2002@gmail.com
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
