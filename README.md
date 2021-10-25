@@ -85,7 +85,7 @@ Today the first materialization of the project begins, starting the creation of 
 - [x] Project creation on **Github** ([https://github.com/Thanic-app/Thanic](url))
 - [ ] Website design and programming
 - [ ] Elaboration of **base document** that will be transferred to the design
-- [ ] Creation of social networks (As well as ** base content **)
+- [ ] Creation of social networks (As well as **base content**)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
