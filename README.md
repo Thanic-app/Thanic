@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jon García Agramonte - [LinkedIn](www.linkedin.com/in/jon-garcía-agramonte/) - [Instagram](https://www.instagram.com/jontafalla_/) - jon.agramonte@opendeusto.es
+Jon García Agramonte - [LinkedIn](https://www.linkedin.com/in/jon-garcía-agramonte/) - [Instagram](https://www.instagram.com/jontafalla_/) - jon.agramonte@opendeusto.es
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
