@@ -107,7 +107,7 @@ Jon García Agramonte - [LinkedIn](https://www.linkedin.com/in/jon-garcía-agram
 
 Ibai Armendariz Lesaga - [LinkedIn](https://www.linkedin.com/in/ibai-armendariz-ab5345222) - ibaiarmendariz2002@gmail.com
 
-Javier Asurmendi Torres - [LinkedIn](https://www.linkedin.com/in/javier-asurmendi-1b250a223/) - j.asurmendi.t@gmail.com
+Javier Asurmendi Torres - [LinkedIn](https://www.linkedin.com/in/javier-asurmendi-1b250a223/) - jav.asurmendi@gmail.com
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
