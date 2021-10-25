@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Team
 
 Jon García Agramonte - [LinkedIn](https://www.linkedin.com/in/jon-garcía-agramonte/) - [Instagram](https://www.instagram.com/jontafalla_/) - jon.agramonte@opendeusto.es
 
