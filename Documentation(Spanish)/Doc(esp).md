@@ -117,6 +117,18 @@ Hoy da comienzo la primera materialización del proyecto, dando inicio a la crea
 
 - [x] Creación del proyecto en **Github** ([https://github.com/jnvdx666](url))
 - [ ] Diseño y programación página web 
-- [ ] Elaboración **documento base** que se trasladará al diseño
+- [x] Elaboración **documento base** que se trasladará al diseño
 - [ ] Creación redes sociales (Así como **contenido base**)
 - [x] Elaboración **README**
+
+## 26/10/2021
+
+Fin de semana productivo, avanze en diferentes campos del proyecto, tambien se han asentado ciertas bases de trabajo así como un parcial reajuste en la estructura del proyecto. Se ha profundizado en la tecnología blockchain que se va a utilizar siendo esta **SOLANA**. Con esta decisión tomada es más fácil avanzar en ciertas tareas que se podrian encontrar parcialmente bloqueadas por esta decisión. Esto nos abre ciertas puertas hacia uun horizonte de trabajo duro y dedicación diaria. 
+
+Actualizacion de tareas:
+- [x] Avanze en documentación
+- [x] Elaboración del documento explicativo
+- [x] Elección de la tecnología (**SOLANA**)
+- [x] Mejora y actualización constante del GitHub
+- [x] Continuación en los documentos "Plan de Financiación" y "Estadisticas Básicas" 
+- [ ] Creación RR.SS
