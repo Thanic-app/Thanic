@@ -120,15 +120,28 @@ Hoy da comienzo la primera materialización del proyecto, dando inicio a la crea
 - [x] Elaboración **documento base** que se trasladará al diseño
 - [ ] Creación redes sociales (Así como **contenido base**)
 - [x] Elaboración **README**
-
-## 26/10/2021
+## 25/10/2021
 
 Fin de semana productivo, avanze en diferentes campos del proyecto, tambien se han asentado ciertas bases de trabajo así como un parcial reajuste en la estructura del proyecto. Se ha profundizado en la tecnología blockchain que se va a utilizar siendo esta **SOLANA**. Con esta decisión tomada es más fácil avanzar en ciertas tareas que se podrian encontrar parcialmente bloqueadas por esta decisión. Esto nos abre ciertas puertas hacia uun horizonte de trabajo duro y dedicación diaria. 
 
 Actualizacion de tareas:
-- [x] Avanze en documentación
+- [x] Avance en documentación
 - [x] Elaboración del documento explicativo
 - [x] Elección de la tecnología (**SOLANA**)
 - [x] Mejora y actualización constante del GitHub
 - [x] Continuación en los documentos "Plan de Financiación" y "Estadisticas Básicas" 
 - [ ] Creación RR.SS
+
+## 27/10/2021
+
+Semana de trabajo, a media semana realizamos sesión de trabajo y control, aunque varios integrantes se hayan ausentes se continua con el trabajo constante y la dedicación. Se da por completado ciertas tareas con una destacada importancia, estimación de liquidez, datos estadísticos básicos, avance en el plan de negocio, ... Así como la creación del proyecto en diferentes plataformas (GitHub, LinkedIn, Instagram).
+
+- [x] Avance en la documentación
+- [x] Creación plataformas digitales RR.SS (GitHub, LinkedIn, Instagram)
+- [x] Avance en GitHub
+- [x] Elaboración de documentos: Estimación de liquidez, Datos estadísticos básicos, Avance en el plan de negocio ...
+- [ ] Documento básico (2-4 pags)
+- [ ] Perfil Cliente
+- [ ] Research Concursos Públicos/Privados
+- [ ] Visibilidad en Prensa
+
