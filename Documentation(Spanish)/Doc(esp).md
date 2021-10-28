@@ -107,6 +107,30 @@ Conseguir llegar a un gran número de personas, tanto público objetivo como pú
 
 - Planificación detallada hoja de ruta del desarrollo a base de capas
 
+## Reunión 27/10/2021
+
+- **Asistentes**: @Javier, @Jon, @Aitor y @Ibai
+
+Reunión intensa (rozando las 2:30h de duración), se debate de varios temas. Primeramente @Jon hace una exposición acerca de solana y sus principales características que finalmente será el entorno blockchain alrededor el cual se desarrollará el proyecto. Para continuar @Javier y @Jon comienzan a programar. Llegando a la primera hora de reunión se unen @Ibai y @Aitor, posteriormente comienza un brainstorming acerca del papel de la tecnología NFT en nuestro proyecto destacando las siguientes ideas.
+
+- Jerarquía de diferente valores (Tipo liga o torneo) (++ Competitividad)
+- Colección de NFT en la propia apliación, destacando el número de estos como garantía de compra/venta
+- Sistema de mejora de NFTs
+- Avatar personalizado (NFT)
+
+Para continuar se empieza a esbozar el reparto porcentual del total de tokens emitidos así como su regulación económica.
+
+Tareas Semanales (Obviando anteriores):
+
+- [ ] Añadir información sobre web3 a la documentación y al business plan
+- [x] Estimación de liquidez
+- [x] Documento datos estadísticos básicos
+- [ ] Establecer liquidez del token (Ejemplo):
+
+$$
+\frac{\sum_{i=0}^{32}210.000\times [\frac{50\times 10^{8}}{2^{i}}]}{10^{8}} \approx 21.000.000
+$$
+
 ---
 
 # Actividad
@@ -120,6 +144,7 @@ Hoy da comienzo la primera materialización del proyecto, dando inicio a la crea
 - [x] Elaboración **documento base** que se trasladará al diseño
 - [ ] Creación redes sociales (Así como **contenido base**)
 - [x] Elaboración **README**
+
 ## 25/10/2021
 
 Fin de semana productivo, avanze en diferentes campos del proyecto, tambien se han asentado ciertas bases de trabajo así como un parcial reajuste en la estructura del proyecto. Se ha profundizado en la tecnología blockchain que se va a utilizar siendo esta **SOLANA**. Con esta decisión tomada es más fácil avanzar en ciertas tareas que se podrian encontrar parcialmente bloqueadas por esta decisión. Esto nos abre ciertas puertas hacia uun horizonte de trabajo duro y dedicación diaria. 
@@ -144,4 +169,3 @@ Semana de trabajo, a media semana realizamos sesión de trabajo y control, aunqu
 - [ ] Perfil Cliente
 - [ ] Research Concursos Públicos/Privados
 - [ ] Visibilidad en Prensa
-
